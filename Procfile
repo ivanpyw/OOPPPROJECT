@@ -1,1 +1,1 @@
-web: gunicorn E-learning:app
+web: gunicorn OOPP Project:app

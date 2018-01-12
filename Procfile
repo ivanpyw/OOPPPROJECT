@@ -1,1 +1,1 @@
-web: gunicorn oopp-project:app
+web: gunicorn oopp-project:app --preload --workers 1

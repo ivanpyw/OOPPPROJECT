@@ -194,4 +194,4 @@ def login():
 
 if __name__ == '__main__':
     app.secret_key = '123'
-    app.run(debug = True, port = '80')
+    app.run(port ='80')
